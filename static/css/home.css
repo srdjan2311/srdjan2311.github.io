@@ -2,7 +2,8 @@ body {
     position: relative
 }
 
-.section-blue, .section-dark-blue {
+.section-blue,
+.section-dark-blue {
     background-color: #196eb4;
     color: #fff
 }
@@ -17,7 +18,8 @@ body {
     color: #8694a0
 }
 
-.section-blue a, .section-dark-blue a {
+.section-blue a,
+.section-dark-blue a {
     color: #fff
 }
 
@@ -51,14 +53,15 @@ body {
     height: 24px
 }
 
-.logo, .logo-symbol {
+.logo,
+.logo-symbol {
     display: inline-block
 }
 
 .logo-symbol {
     background: url("../img/logo-symbol.png");
-    width: 80px;
-    height: 80px;
+    width: 280px;
+    height: 75px;
     background-size: 100% 100%;
     margin-left: -10px;
     /* margin-top: 20px; */
@@ -97,7 +100,9 @@ body {
     height: 2.5rem
 }
 
-.section-navigation .navbar-toggler:active, .section-navigation .navbar-toggler:focus, .section-navigation .navbar-toggler:hover {
+.section-navigation .navbar-toggler:active,
+.section-navigation .navbar-toggler:focus,
+.section-navigation .navbar-toggler:hover {
     background: #095797
 }
 
@@ -117,7 +122,8 @@ body {
     padding: .5rem
 }
 
-.section-navigation .nav-link:hover, .section-navigation .navbar .active .nav-link {
+.section-navigation .nav-link:hover,
+.section-navigation .navbar .active .nav-link {
     color: #69aee9
 }
 
@@ -327,7 +333,7 @@ body {
     margin: 0 0 1.78rem
 }
 
-.section-team .content-illustration > .img-fluid {
+.section-team .content-illustration>.img-fluid {
     border-radius: 50%;
 }
 
@@ -351,7 +357,8 @@ body {
     display: none
 }
 
-.section-team .content-over h5, .section-team .content-over p {
+.section-team .content-over h5,
+.section-team .content-over p {
     color: #fff
 }
 
@@ -444,7 +451,9 @@ body {
     display: none
 }
 
-.section-investors .content-over a, .section-investors .content-over h5, .section-investors .content-over p {
+.section-investors .content-over a,
+.section-investors .content-over h5,
+.section-investors .content-over p {
     color: #fff
 }
 
